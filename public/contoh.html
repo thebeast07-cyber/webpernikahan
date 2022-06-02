@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1 id="coba">nama</h1>
+		<script>
+			document.addEventListener("DOMContentLoaded", function(event) {
+				new URL(location.href).searchParams.get('nama');
+				const params = new URL(location.href).searchParams;
+				const nama = params.get('nama');
+				var target = document.querySelector("[id=coba]");
+				target.innerHTML = nama;
+			});
+			
+		</script>
+	</body>
+</html>

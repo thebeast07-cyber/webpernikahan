@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      new URL(location.href).searchParams.get('nama');
+      const params = new URL(location.href).searchParams;
+      const nama = params.get('nama');
+    
+      var target = document.querySelector("[id=nama]");
+      target.innerHTML = nama;
+    });
+    
+  </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNDANGAN PERNIKAHAN ICHA & AGUS</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="style.css">
+
+    <!--========== BOX ICONS ==========-->
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+</head>
+<body>
+    
+<!-- header section starts  -->
+
+<header>
+
+    <a href="#" class="logo">
+        <img src="#" alt="" class="images">
+    </a>
+
+</header>
+
+<!-- header section ends -->
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <div class="content">
+        <h3><span>Undangan Pernikahan</span></h3>
+        <h5><span>Kepada Yth Bapak/Ibu</span></h5>
+        <h5 id="nama"><span>nama</span></h5>
+        <a href="index.html" class="btn">Lebih Lanjut</a>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus suscipit porro nam libero natus error consequatur sed repudiandae eos quo?</p>
+    </div>
+
+    <div class="image">
+        <img src="images/couple.png" alt="">
+    </div>
+
+</section>
+
+<!-- home section ends -->
+
+
+<!-- about section ends -->
+
+<!-- contact section starts  -->
+
+<!-- contact section edns -->
+
+<!-- footer section starts  -->
+
+    <footer class="footer" id="kontak">
+      <h1 class="credit"> &copy; copyright by Syifa A.M </h1>
+    </footer>
+
+    <div id="overlay">
+      <div class="spinner"></div> 
+    </div>
+
+
+
+<!-- footer section ends -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+  <script>
+    AOS.init({
+      duration: 1000,
+    });
+  </script>
+</body>
+</html>
