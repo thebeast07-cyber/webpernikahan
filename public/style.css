@@ -160,8 +160,9 @@ header label{
 
 
 .home .content p{
+    font-style: monospace;
     font-size: 1.7rem;
-    color:#666;
+    color:rgb(255, 249, 249);
     padding:1rem 0;
     opacity: 0;
 }
