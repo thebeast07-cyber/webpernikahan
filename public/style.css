@@ -138,18 +138,20 @@ header label{
 }
 
 .home .content h3{
+    font-family: "Sofia", sans-serif;
     font-size: 5.5rem;
     color:rgb(245, 244, 244);
     text-transform: uppercase;
 }
 .home .content h5{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Sofia", sans-serif;
     font-size: 2.5rem;
     color:rgb(255, 255, 255);
     text-transform: uppercase;
 }
 
 .home .content h3 span{
+    font-family: "Sofia", sans-serif;
     color:var(--pink);
     text-transform: uppercase;
 }
