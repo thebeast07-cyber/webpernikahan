@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed2.jpeg");
+  background-image:  url("../image/prewed2.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +582,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed3.jpeg");
+  background-image: url("../image/prewed3.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +590,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed4.jpeg");
+  background-image: url("../image/prewed4.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +598,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed5.jpeg");
+  background-image:  url("../image/prewed5.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +607,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed6.jpeg");
+  background-image:  url("../image/prewed6.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -615,7 +615,7 @@ body.preloader-site {
 }
 
 .foto7 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed7.jpeg");
+  background-image:  url("../image/prewed7.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -624,7 +624,7 @@ body.preloader-site {
 
 
 .foto8 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed8.jpeg");
+  background-image: url("../image/prewed8.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -633,7 +633,7 @@ body.preloader-site {
 
 
 .foto9 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed9.jpeg");
+  background-image:url("../image/prewed9.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -642,7 +642,7 @@ body.preloader-site {
 
 
 .foto10 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed10.jpeg");
+  background-image:url("../image/prewed10.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -651,7 +651,7 @@ body.preloader-site {
 
 
 .foto11 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed11.jpeg");
+  background-image: url("../image/prewed11.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -660,7 +660,7 @@ body.preloader-site {
 
 
 .foto12 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed12.jpeg");
+  background-image: url("../image/prewed12.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
