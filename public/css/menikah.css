@@ -565,7 +565,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/prewed.jpeg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0), rgba(48, 47, 47, 0)), url("../image/prewed.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
